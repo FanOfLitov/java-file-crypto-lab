@@ -12,7 +12,7 @@ public class KeyGenerator {
             "0123456789";
 
     private static final String SYMBOLS =
-            "!@#$%^&*()-_=+";
+            "!@#%^&*()-_=+";
 
     private static final String ALL_CHARACTERS =
             UPPERCASE
